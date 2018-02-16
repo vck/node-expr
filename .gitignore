@@ -1,3 +1,10 @@
 node-cluster-tutorial/*
+learning-libuv/
+learning-nodejs/
+libuv-1.19.0/
+
+
+v1.19.0.zip
+
 *.swp
 
